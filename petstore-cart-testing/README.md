@@ -64,9 +64,12 @@ Este repositório documenta um exercício educacional realizado a partir dos req
 
 ## Autora
 
-Renata Meirelles da Silva
+**Renata Meirelles da Silva**
 Estudante de QA Engineering — Mate Academy.
-                                                                                                 ## Documentação do projeto
+
+## Documentação do projeto
+
+                                                                                                                                         ## Documentação do projeto
 
 Os documentos abaixo apresentam as etapas do projeto, desde a análise dos requisitos até o registro dos resultados:
 
