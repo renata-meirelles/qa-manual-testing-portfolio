@@ -66,3 +66,15 @@ Este repositório documenta um exercício educacional realizado a partir dos req
 
 Renata Meirelles da Silva
 Estudante de QA Engineering — Mate Academy.
+                                                                                                 ## Documentação do projeto
+
+Os documentos abaixo apresentam as etapas do projeto, desde a análise dos requisitos até o registro dos resultados:
+
+| Documento                                  | Conteúdo                                                                  |
+| ------------------------------------------ | ------------------------------------------------------------------------- |
+| [Requisitos](requirements.md)              | As 21 regras funcionais do carrinho de compras.                           |
+| [Checklist](checklist.md)                  | As 37 verificações planejadas.                                            |
+| [Casos de teste](test-cases.md)            | Seis cenários detalhados com precondições, passos e resultados esperados. |
+| [Relatório de execução](test-execution.md) | Resultados registrados durante a atividade.                               |
+| [Relatórios de bugs](bug-reports.md)       | Quatro defeitos documentados.                                             |
+| [Resumo final](test-summary.md)            | Resultados gerais, limitações e aprendizados.                             |
